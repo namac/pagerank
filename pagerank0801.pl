@@ -1,5 +1,5 @@
 #!/usr/bin/env perl
-# 正規化はなし
+# 正規化適応
 use strict;
 use warnings;
 
